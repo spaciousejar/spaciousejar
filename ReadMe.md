@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a specialized front-end developer, I possess a wealth of knowledge and expertise when it comes to developing dynamic web projects. My experience encompasses all stages of the development cycle, from conceptualization and planning to implementation and final testing. <br><br>In addition to my extensive experience, I am also adept in multiple programming languages, including HTML, JavaScript, CSS, and MySQL. My proficiency in these languages means that I can confidently tackle complex projects with ease, and deliver exceptional results that meet and exceed the expectations of clients.<br><br>Overall, I am a highly skilled and dedicated web developer who is passionate about delivering top-quality work. Whether you're looking to build a new website from scratch or optimize an existing one, I am confident in my ability to deliver the results you need.
+I am a specialized front-end developer with a wealth of knowledge in developing dynamic web projects. My experience covers all stages of the development cycle, and I am proficient in multiple programming languages, including HTML, JavaScript, CSS, and MySQL. I am highly skilled and dedicated to delivering top-quality work. Whether you need to build a new website or optimize an existing one, I am confident in my ability to provide you with the results you need.
 
 
 ## 🌐 Socials:
