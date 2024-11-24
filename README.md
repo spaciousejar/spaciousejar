@@ -2,7 +2,7 @@
 
 Hey, 
 
-I'm Vicky,a Web Developer with a passion for creating simple solutions to complex problems. 
+I'm Vicky, a Web Developer passionate about creating simple solutions to complex problems. 
 I focus on digital interfaces, interactive experiences, and design-tech convergence.
 
 
@@ -11,6 +11,6 @@ I focus on digital interfaces, interactive experiences, and design-tech converge
 
 I am a huge fan of open-source and [have built projects](https://www.gitme.live/) used by thousands.
 
-Reach out to me at [jadhavvicky752@gmail.com](mailto:jadhavvicky752@gmail.com) for questions, collaborations, or tech discussions.
+For questions, collaborations, or tech discussions, reach out to me at [jadhavvicky752@gmail.com](mailto:jadhavvicky752@gmail.com).
 
 [More about me &rarr;](https://portfolio-main-eta-five.vercel.app/)
