@@ -9,8 +9,8 @@ I focus on digital interfaces, interactive experiences, and design-tech converge
 * Next.js, React, Tailwind CSS, Git & GitHub.
 
 
-I am a huge fan of open-source and [have built projects](https://www.gitme.live/) used by thousand.
-
-[More about me &rarr;](https://portfolio-main-eta-five.vercel.app/)
+I am a huge fan of open-source and [have built projects](https://www.gitme.live/) used by thousands.
 
 Reach out to me at [jadhavvicky752@gmail.com](mailto:jadhavvicky752@gmail.com) for questions, collaborations, or tech discussions.
+
+[More about me &rarr;](https://portfolio-main-eta-five.vercel.app/)
