@@ -12,4 +12,7 @@ I am a huge fan of open-source and [have built projects](https://www.gitme.live/
 
 [More about me &rarr;](https://portfolio-main-eta-five.vercel.app/)
 
-![Demo Profile](/spaciousejar.png)
+<div class="hover-image" style="position: relative;">
+    <img src="/spaciousejar.png" alt="Demo Profile" style="opacity: 0; transition: opacity 0.3s;">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: transparent;" onmouseover="this.previousElementSibling.style.opacity='1';" onmouseout="this.previousElementSibling.style.opacity='0';"></div>
+</div>
