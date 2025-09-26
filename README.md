@@ -2,7 +2,7 @@
 
 Hey, 
 
-I'm Vicky, a Web Developer passionate about creating simple solutions to complex problems. 
+I'm Vicky, a Developer passionate about creating simple solutions to complex problems. 
 I focus on digital interfaces, interactive experiences, and design-tech convergence.
 
 I primarily work with Next.js, React, Tailwind CSS, Git, and GitHub.
